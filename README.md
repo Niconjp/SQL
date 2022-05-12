@@ -1,2 +1,3 @@
 # SQL
-SQL
+
+Everything related to sql
